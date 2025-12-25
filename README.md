@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Wagner Muniz 
 
-**`Fulture Desenvolvedor FullStack`**
+**`future Desenvolvedor FullStack`**
 
 Me chamo Wagner Muniz, tenho 21 anos e apaixonado por códigos, hoje eu estou estudando para ser um Developer FullStack mas desde já eu estou me aprimoriando para ter mais conhecimentos na área .
 
